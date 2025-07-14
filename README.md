@@ -29,9 +29,3 @@ Now run the script
 
 
 
-
-## Documentation
-
-[Documentation](https://medium.com/@joshiayush867/aws-iam-onboarding-offboarding-7dd16dce3b78)
-
-Review the Article for each step with the screenshots 
